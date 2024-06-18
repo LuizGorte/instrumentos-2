@@ -48,6 +48,6 @@ process.stdin.on("data", function (data) {
         console.log("Toca algum outro instrumento?");
         instrumento = undefined;
         break;
-    }//bomba
+    }//biribinha
   }
 });
